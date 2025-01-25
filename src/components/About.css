@@ -1,0 +1,54 @@
+/* src/components/About.css */
+
+/* Container for the About section */
+.about-container {
+    text-align: center;
+    margin: 50px auto;
+    max-width: 800px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Title of the About section */
+  .about-container h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  /* Paragraph inside the About section */
+  .about-container p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    margin-bottom: 30px;
+    color: #555;
+  }
+  
+  /* Heading for Contact Details */
+  .contact-details h2 {
+    font-size: 2rem;
+    margin-top: 30px;
+    color: #333;
+  }
+  
+  /* Styling for the contact details list */
+  .contact-details ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  /* Individual list items in the Contact section */
+  .contact-details li {
+    font-size: 1.2rem;
+    margin: 10px 0;
+    color: #666;
+  }
+  
+  /* Emphasis on labels */
+  .contact-details strong {
+    color: #333;
+  }
+  

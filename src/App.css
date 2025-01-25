@@ -1,0 +1,66 @@
+/* App.css */
+
+/* Home page styles */
+.home {
+  text-align: center;
+  margin-top: 150px; /* Adjust to center the content */
+}
+
+.home h1 {
+  font-size: 3rem;
+  margin-bottom: 40px;
+}
+
+.home-nav {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+.home-nav a {
+  font-size: 1.5rem;
+  padding: 12px 25px;
+  background-color: #0e0d0d;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.home-nav a:hover {
+  background-color: #111010;
+}
+
+/* Header styles */ 
+header nav {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  background-color: #0c0c0c;
+  padding: 20px;
+}
+
+header nav a {
+  color: white;
+  text-decoration: none;
+  font-size: 1.1rem;
+}
+
+header nav a:hover {
+  color: #61dafb;
+}
+
+/* App.css or a separate Header.css */
+
+/* Header styles */
+header nav {
+  background-color: black; /* Black background for the navigation bar */
+  padding: 20px;
+  text-align: center;
+}
+
+header nav h1 {
+  color: white; /* Set the font color for your name to white */
+  font-size: 2rem; /* Optional: Adjust the font size */
+  margin: 0; /* Remove default margin for h1 */
+}
+

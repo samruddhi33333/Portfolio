@@ -1,0 +1,14 @@
+/* App.css */
+
+/* Header styles */
+header {
+  background-color: rgb(15, 12, 12); /* Black background for the nav */
+  padding: 20px;
+  text-align: center; /* Center-align the content */
+}
+
+header nav h1 {
+  color: rgb(237, 234, 234); /* White color for your name */
+  font-size: 2.5rem; /* You can adjust the font size */
+  margin: 0; /* Remove default margin for the h1 tag */
+}
