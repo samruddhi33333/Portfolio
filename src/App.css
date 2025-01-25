@@ -1,7 +1,7 @@
 
 .home {
   text-align: center;
-  margin-top: 150px; /* Adjust to center the content */
+  margin-top: 150px;
 }
 
 .home h1 {
@@ -49,7 +49,7 @@ header nav a:hover {
 
 
 header nav {
-  background-color: black; /* Black background for the navigation bar */
+  background-color: black; 
   padding: 20px;
   text-align: center;
 }
